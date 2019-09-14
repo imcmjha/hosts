@@ -1,4 +1,4 @@
-0.0.0.0 **.google.*	
+0.0.0.0 *.google.*
 0.0.0.0 *.google.com
 0.0.0.0 *.google.co.in
 0.0.0.0 *.admob.*
