@@ -1,4 +1,4 @@
-127.0.0.1 *.google.*
+127.0.0.1 google.com
 127.0.0.1 *.admob.*
 127.0.0.1 *.adsense.*
 127.0.0.1 *.adwords.*
